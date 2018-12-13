@@ -1,4 +1,4 @@
-# -Numerical-Computing-with-Python
+# Numerical-Computing-with-Python
 Learning Path - Numerical Computing with Python
 <br>
 Data mining, or parsing the data to extract useful insights, is a niche skill that can transform your career as a data scientist Python is a flexible programming language that is equipped with a strong suite of libraries and toolkits, and gives you the perfect platform to sift through your data and mine the insights you seek. This Learning Path is designed to familiarize you with the Python libraries and the underlying statistics that you need to get comfortable with data mining.
